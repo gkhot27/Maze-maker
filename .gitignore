@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+mazechart
+maze_gen
+
+# Generated output (can be recreated)
+out.jgr
+out.ps
+out.pdf
+output.pdf
+
+# Large archives (get jgraph from source; see JGRAPH.md)
+*.tar
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*~
