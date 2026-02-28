@@ -73,7 +73,7 @@ Or: `./scripts/make_maze.sh 15 20` → creates `maze_15x20.txt` and `maze_15x20.
   jgraph -P output/example1.jgr > output/example1.ps
   ps2pdf output/example1.ps output/example1.pdf
 
-  https://github.com/YOUR_USERNAME/Maze-Maker/blob/main/output/example1.pdf
+  https://github.com/gkhot27/Maze-Maker/blob/main/output/example1.pdf
 
 - **Example 2** [output/example2.pdf](output/example2.pdf)
  
@@ -81,7 +81,7 @@ Or: `./scripts/make_maze.sh 15 20` → creates `maze_15x20.txt` and `maze_15x20.
   jgraph -P output/example2.jgr > output/example2.ps
   ps2pdf output/example2.ps output/example2.pdf
 
-  https://github.com/YOUR_USERNAME/Maze-Maker/blob/main/output/example2.pdf
+  https://github.com/gkhot27/Maze-Maker/blob/main/output/example2.pdf
 
 **Example 3** [output/small.pdf](output/small.pdf)
 
@@ -90,7 +90,7 @@ Or: `./scripts/make_maze.sh 15 20` → creates `maze_15x20.txt` and `maze_15x20.
   jgraph -P output/small.jgr > output/small.ps
   ps2pdf output/small.ps output/small.pdf
 
-https://github.com/YOUR_USERNAME/Maze-Maker/blob/main/output/small.pdf
+https://github.com/gkhot27/Maze-Maker/blob/main/output/small.pdf
 
 **Example 4** [output/medium.pdf](output/medium.pdf)
 
@@ -99,7 +99,7 @@ https://github.com/YOUR_USERNAME/Maze-Maker/blob/main/output/small.pdf
   jgraph -P output/medium.jgr > output/medium.ps
   ps2pdf output/medium.ps output/medium.pdf
 
-https://github.com/YOUR_USERNAME/Maze-Maker/blob/main/output/medium.pdf
+https://github.com/gkhot27/Maze-Maker/blob/main/output/medium.pdf
 
 **Example 5** [output/large.pdf](output/large.pdf)
 
@@ -108,7 +108,7 @@ https://github.com/YOUR_USERNAME/Maze-Maker/blob/main/output/medium.pdf
   jgraph -P output/large.jgr > output/large.ps
   ps2pdf output/large.ps output/large.pdf
 
-https://github.com/YOUR_USERNAME/Maze-Maker/blob/main/output/large.pdf
+https://github.com/gkhot27/Maze-Maker/blob/main/output/large.pdf
 
 
 
