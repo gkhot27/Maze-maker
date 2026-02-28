@@ -1,0 +1,4 @@
+newgraph
+xaxis min -0.2 max 0.4 size 5 nodraw
+yaxis min -0.2 max 0.4 size 5 nodraw
+newcurve poly pcfill 1 1 1 pts 0 0 0.2 0 0.2 0.2 0 0.2 0 0

@@ -3,11 +3,25 @@
 mazechart
 maze_gen
 
-# Generated output (can be recreated)
+# Jgraph binary (third-party; build from source per JGRAPH.md)
+jgraph/jgraph/jgraph
+
+# Generated output (recreate with: make outputs)
 out.jgr
 out.ps
 out.pdf
 output.pdf
+maze10.jgr
+maze10.pdf
+maze_10x10.pdf
+maze_10x10.txt
+maze_15x20.pdf
+maze_15x20.txt
+maze_1x1.pdf
+maze_1x1.txt
+
+# Intermediate maze files created by make outputs
+output/*_maze.txt
 
 # Large archives (get jgraph from source; see JGRAPH.md)
 *.tar
